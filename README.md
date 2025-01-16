@@ -5,7 +5,7 @@ Hello, I'm Ross a final year Earth observation 🌍🛰️ PhD student at the Un
 
 My reserach uses Sentinel-1🛰️ SAR imagery to measure changes in the flow of the Antarctic Ice Sheet 🇦🇶🧊, and other enviromnental datasets 💨☀☀️❄❄️🌊 to investigate potential drivers of long- and short-term variability. 
 
-I mainly work in python and I'm really interested in big data processing for Earth observation, and using the Pangeo software stack. 
+I mainly work in Python - I'm really interested in big data processing for Earth observation and using the Pangeo software stack. 
 <!--
 **rossawslater/rossawslater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
