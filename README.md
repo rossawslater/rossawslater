@@ -1,5 +1,11 @@
-# Ross Slater
+# Ross A. W. Slater
 ### Earth Observation PhD Student
+
+[![scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lihZk0AAAAAJ&hl)
+[![orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0594-007X)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rossawslater/)
+[![website](https://img.shields.io/badge/website-83B81A?style=for-the-badge&logoColor=white)](https://environment.leeds.ac.uk/see/pgr/9937/ross-slater)
+
 
 Hello I'm Ross 👋, a final year Earth observation 🌍🛰️ and Glaciology PhD student at the University of Leeds, part of the [SENSE Centre for Doctoral Training
 ](https://eo-cdt.org/)
