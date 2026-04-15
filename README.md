@@ -5,7 +5,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rossawslater/)
 [![website](https://img.shields.io/badge/website-83B81A?style=for-the-badge&logoColor=white)](https://environment.leeds.ac.uk/see/pgr/9937/ross-slater)
 
-### Earth Observation PhD Student
+### Polar Earth Observation Scientist
 
 
 Hello I'm Ross 👋, an Earth observation 🌍🛰️ and Glaciology researcher at the University of Leeds.
