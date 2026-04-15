@@ -8,8 +8,7 @@
 ### Earth Observation PhD Student
 
 
-Hello I'm Ross 👋, a final year Earth observation 🌍🛰️ and Glaciology PhD student at the University of Leeds, part of the [SENSE Centre for Doctoral Training
-](https://eo-cdt.org/)
+Hello I'm Ross 👋, an Earth observation 🌍🛰️ and Glaciology researcher at the University of Leeds.
 
 My research uses Sentinel-1🛰️ SAR imagery to measure changes in the flow of the Antarctic Ice Sheet 🇦🇶🧊, and other environmental datasets 💨☀️❄️🌊 to investigate potential drivers of long- and short-term variability. 
 
